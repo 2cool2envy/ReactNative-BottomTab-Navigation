@@ -2,9 +2,9 @@
 
 ## A Sample React Native application that contain the Bottom Tab Navigation based on the [https://reactnavigation.org/](https://reactnavigation.org/) 
 
-Preview                                                                        
------------------------------------------------------------------------------- 
-![](https://github.com/2cool2envy/fkbestOffers/blob/master/app.gif?raw=true)   
+| Preview                                                                            |             Debug apk Link |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| ![](https://github.com/2cool2envy/fkbestOffers/blob/master/app.gif?raw=true)   | [https://github.com/2cool2envy/ReactNative-BottomTab-Navigation/blob/master/app-debug.apk](Download) |
 
 
 ### Minimum use of the 3rd party libraries to achive the Bottom Tab Navigation for React Native.
