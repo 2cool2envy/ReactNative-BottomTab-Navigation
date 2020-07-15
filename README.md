@@ -12,8 +12,6 @@
 
 * "@react-navigation/bottom-tabs": "^5.7.0",
 * "@react-navigation/native": "^5.7.0",
-*  "react": "16.13.1",
-*  "react-native": "0.63.0",
 *  "react-native-safe-area-context": "^3.1.1",
 *  "react-native-screens": "^2.9.0",
 *  "react-native-vector-icons": "^7.0.0"
